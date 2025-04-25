@@ -1,0 +1,30 @@
+.display{
+    display: flex;
+    width: 100%;
+    margin-bottom:20px;
+}
+.display2{
+    display: flex;
+}
+img{
+    width: 224px;
+    height: 150px;
+}
+.div{
+    border: solid rgb(0, 0, 0) 1px;
+    border-radius: 7px;
+}
+p{
+    text-align: center;
+}
+.main{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(201, 201, 241, 0.808);
+}
+.menu{
+    width: 100vw;
+    border: solid rgb(0, 0, 0) 1px;
+    margin-bottom: 50px;
+    border-radius: 7px;
+}
